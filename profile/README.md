@@ -1,6 +1,6 @@
 <h1>movie-web</h1>
 
-movie-web is a web app for watching movies easily. Check it out at **[movie.squeezebox.dev](https://movie.squeezebox.dev)**.
+movie-web is a web app for watching movies easily. Check it out at **[movie-web.app](https://movie-web.app)**.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthic user interface.
 
